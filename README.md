@@ -1,4 +1,4 @@
-# DEvice Directory
+# Device Directory
 
 # SpringBoot REST API project with Maven
 
