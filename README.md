@@ -1,6 +1,6 @@
-# SpringBoot-Maven-REST-API-01
+# DEvice Directory
 
-# SpringBoot REST project with Maven
+# SpringBoot REST API project with Maven
 
 REST API project built in  springboot and Maven.
 ## Getting Started
